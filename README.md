@@ -18,8 +18,13 @@
 - Recursos
 
   Exemple complex: https://github.com/tteguayco/Web-scraping
+  
   Tutorial de Github https://guides.github.com/activities/hello-world.
+  
   Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC.
+  
   Masip, D. (2010). El lenguaje Python. Editorial UOC.
+  
   Simon Munzert, Christian Rubba, Peter Meißner, Dominic Nyhuis. (2015). 
+  
   Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data.
