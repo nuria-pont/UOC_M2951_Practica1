@@ -1,11 +1,11 @@
-# Práctica 1: Web scraping
-Rànkings Atletisme d'Espanya últims 15 anys
+- Práctica 1: Web scraping
+  Rànkings Atletisme d'Espanya últims 15 anys
 
-# Descripció
+- Descripció
 
-# Membres de l'equip
+- Membres de l'equip
 
-# Arxiu codi font .py i extracció .csv
+- Arxiu codi font .py i extracció .csv
 
-# Recursos
+- Recursos
 
