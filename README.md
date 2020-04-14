@@ -12,8 +12,8 @@
       
 - Arxiu codi font .py i extracció .csv
 
-  Arxiu del codi font és: XXXX.py
-  Arxiu extracció csv és: YYYY.csv
+  Arxiu del codi font és: WebScrapingRankingRFEA.py
+  Arxiu extracció csv és: resultats.csv
   
 - Recursos
 
