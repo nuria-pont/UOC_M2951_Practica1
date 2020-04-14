@@ -16,6 +16,9 @@
   
   Arxiu extracció csv és: resultats.csv
   
+  Link a Zenodi¡o: https://zenodo.org/record/3751072#.XpWbGsgzZPY
+  
+  
 - Recursos
 
   Exemple complex: https://github.com/tteguayco/Web-scraping
