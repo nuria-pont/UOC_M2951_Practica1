@@ -1,6 +1,6 @@
 - Práctica 1: Web scraping
   
-  Rànkings Atletisme d'Espanya últims 15 anys
+  Rànkings Atletisme d'Espanya últims 5 anys
 
 - Descripció:
 
